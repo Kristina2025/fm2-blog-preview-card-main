@@ -55,6 +55,7 @@ main {
 }
 
 .card-img {
+  display: block;
   width: 100%;
   border-radius: 1rem;
 }
@@ -105,6 +106,7 @@ main {
 }
 
 .card-author-img {
+  display: block;
   width: 3.2rem;
 }
 
