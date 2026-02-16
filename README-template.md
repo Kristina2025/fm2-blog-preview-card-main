@@ -55,7 +55,8 @@ I learned how to add custom fonts:
 
 @font-face {
   font-family: Figtree;
-  src: url(./assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format(truetype);
+  src: url(./assets/fonts/Figtree-Italic-VariableFont_wght.ttf)
+    format("truetype");
   font-weight: 100 900;
   font-style: italic;
 }
